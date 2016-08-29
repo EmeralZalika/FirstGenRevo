@@ -22,7 +22,6 @@ public class NumberRevo {
 	
 	public static int reverse(int n) {
 		
-		//Input data
 		int result = 0;
 		
 		//Declare remainder as an int
